@@ -1,14 +1,13 @@
 # Learning 3.0
 As MilenkoBugueno I want to use learning 3.0 in order to learn to code an app
 
-## Values
-**Move#1: Memorize all learning 3.0 values by means of flash cards**
+## Move#1: Memorize all learning 3.0 values by means of flash cards
 
  *I believe that:* memorizing the learning 3.0 values
  
  *Will result in:* a better understanding of learning 3.0
  
- *I will have confidence to move on when:* I know by heart all eight values
+ *I'll know that the move works when:* I know by heart all eight values
 
  1. Learn in the real world
  2. Delve only into what is in front of you
@@ -19,17 +18,17 @@ As MilenkoBugueno I want to use learning 3.0 in order to learn to code an app
  7. Visualising the learning is better than measuring it
  8. Learn in harmony with your brain
 
-## Process
-### Problematizing
+### Checkins  
 
-### Researching
+## Move#2: Drawing the learning 3.0 process
 
-### Connecting
+ *I believe that:* Drawing the learning 3.0 process
 
-### Practicing
+ *Will result in:* a better understanding of the 3.0 process
 
-### Sharing
+ *I'll know that the move works when:* I can clearly explain the process
 
+### Checkins
 
 
 
